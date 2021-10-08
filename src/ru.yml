@@ -4,7 +4,7 @@ PLAYER_NOT_FOUND: '§cИзвините, указанный вами игрок �
 # Economy.
 SILVER_BALANCE_MY: '§f§lSilver §8§l» §fВаш баланс - §e%s'
 SILVER_BALANCE_OTHER_USAGE: '§cОшибка, использование - /balance <ник>'
-SILVER_OTHER_BALANCE: '§f§lSilver §8§l» §fБаланс игрока %s1 §f- §e%s2§f серебра'
+SILVER_OTHER_BALANCE: '§f§lSilver §8§l» §fБаланс игрока %s §f- §e%s§f серебра'
 
 # Crash
 CRASH_USAGE: '§cОшибка, использование - /crash <ник уебана>'
