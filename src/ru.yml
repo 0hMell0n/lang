@@ -2,13 +2,13 @@ TEST: 'l'
 PLAYER_NOT_FOUND: '§cИзвините, указанный вами игрок не найден.'
 
 # Economy.
-SILVER_BALANCE_MY: '§f§lSilver §8§l» §fВаш баланс - §e%s'
-SILVER_BALANCE_OTHER_USAGE: '§cОшибка, использование - /balance <ник>'
-SILVER_OTHER_BALANCE: '§f§lSilver §8§l» §fБаланс игрока %s §f- §e%s§f серебра'
+SILVER_BALANCE_MY: '§f§l[Silver] | §8§l §fВаш баланс - §e%s'
+SILVER_BALANCE_OTHER_USAGE: '§f§l[Silver] | §8§l §cОшибка, использование - /balance <ник>'
+SILVER_OTHER_BALANCE: '§f§l[Silver] | §8§l §fБаланс игрока %s §f- §e%s§f серебра'
 
 # Crash
 CRASH_USAGE: '§cОшибка, использование - /crash <ник уебана>'
-CRASH_SUCCESS: '§6§lApexCloud §8§l» §fВы успешно положили клиент уебана.'
+CRASH_SUCCESS: '§6§l[ApexCloud] §8§l | §fВы успешно положили клиент уебана.'
 
 # Donate gui.
 GUI_DONATE_NAME: '§0Привилегии'
